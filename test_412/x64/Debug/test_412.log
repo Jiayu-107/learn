@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ﻿  test.c
   test_412.vcxproj -> E:\Project\C\test_412\x64\Debug\test_412.exe
+=======
+﻿  test.c
+  test_412.vcxproj -> E:\Project\C\test_412\x64\Debug\test_412.exe
+>>>>>>> d58d1781fcda3d8dff36efb1453a4e680bdf3c64
