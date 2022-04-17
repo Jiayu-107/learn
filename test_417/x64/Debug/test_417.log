@@ -1,0 +1,13 @@
+﻿  test.c
+E:\Project\C\test_417\test.c(27,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(34,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(44,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(44,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(44,43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(44,51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(83,37): warning C4305: “函数”: 从“double”到“float”截断
+E:\Project\C\test_417\test.c(105,23): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(117,59): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Project\C\test_417\test.c(116,10): warning C4101: “h”: 未引用的局部变量
+E:\Project\C\test_417\test.c(123,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  test_417.vcxproj -> E:\Project\C\test_417\x64\Debug\test_417.exe
