@@ -1,0 +1,4 @@
+﻿  test.c
+E:\Project\C\test_423\test.c(53): warning C4715: “month_run”: 不是所有的控件路径都返回值
+E:\Project\C\test_423\test.c(70): warning C4715: “month_ping”: 不是所有的控件路径都返回值
+  test_423.vcxproj -> E:\Project\C\test_423\x64\Debug\test_423.exe
