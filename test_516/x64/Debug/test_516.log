@@ -1,0 +1,3 @@
+﻿  test.c
+E:\Project\C\test_516\test.c(23,16): warning C4090: “return”: 不同的“const”限定符
+  test_516.vcxproj -> E:\Project\C\test_516\x64\Debug\test_516.exe
