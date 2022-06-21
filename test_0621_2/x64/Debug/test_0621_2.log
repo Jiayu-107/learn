@@ -1,0 +1,5 @@
+﻿  test.c
+E:\Project\C\test_0621_2\test.c(20,5): warning C4013: “print_arr”未定义；假设外部返回 int
+E:\Project\C\test_0621_2\test.c(22,5): warning C4013: “move”未定义；假设外部返回 int
+E:\Project\C\test_0621_2\test.c(27,6): error C2371: “print_arr”: 重定义；不同的基类型
+E:\Project\C\test_0621_2\test.c(35,6): error C2371: “move”: 重定义；不同的基类型
