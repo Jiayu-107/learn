@@ -1,0 +1,5 @@
+﻿  test.c
+E:\Project\C\test_0626_3\test.c(11,5): warning C4013: “gets”未定义；假设外部返回 int
+E:\Project\C\test_0626_3\test.c(13,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\test_0626_3\test.c(14,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test_0626_3.vcxproj -> E:\Project\C\test_0626_3\x64\Debug\test_0626_3.exe
