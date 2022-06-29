@@ -1,0 +1,2 @@
+﻿  test.cpp
+E:\Project\C\test_0629_2\test.cpp(16): error C4700: 使用了未初始化的局部变量“data”
