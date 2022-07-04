@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Project\C\test_0704_4\test.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Project\C\test_0704_4\test.cpp(19,14): warning C4552: ”+“: 未使用表达式结果
+  test_0704_4.vcxproj -> E:\Project\C\test_0704_4\x64\Debug\test_0704_4.exe
