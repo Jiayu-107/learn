@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\Project\C\test_0710_4\test.cpp(1,1): warning C4828: 文件包含在偏移 0x2b 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Project\C\test_0710_4\test.cpp(4,1): fatal error C1004: 发现意外的文件尾
