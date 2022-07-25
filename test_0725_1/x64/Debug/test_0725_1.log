@@ -1,0 +1,7 @@
+﻿  test.cpp
+E:\Project\C\test_0725_1\test.cpp(37,20): error C2664: “void swapAll<char>(T &,T &)”: 无法将参数 1 从“char”转换为“T &”
+          with
+          [
+              T=char
+          ]
+E:\Project\C\test_0725_1\test.cpp(7,6): message : 参见“swapAll”的声明
