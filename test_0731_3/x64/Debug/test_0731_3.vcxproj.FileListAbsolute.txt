@@ -1,1 +1,2 @@
 E:\Project\C\test_0731_3\x64\Debug\test_0731_3.exe
+E:\Project\learn\test_0731_3\x64\Debug\test_0731_3.exe
