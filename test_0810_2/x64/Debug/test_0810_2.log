@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\Project\C\test_0810_2\test.cpp(25,28): warning C4101: “e”: 未引用的局部变量
+  test_0810_2.vcxproj -> E:\Project\C\test_0810_2\x64\Debug\test_0810_2.exe
