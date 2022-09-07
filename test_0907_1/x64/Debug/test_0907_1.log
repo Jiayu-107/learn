@@ -1,0 +1,5 @@
+﻿  test.c
+E:\Project\C\test_0907_1\test.c(19,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Project\C\test_0907_1\test.c(14,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Project\C\test_0907_1\test.c(29): warning C4715: “func”: 不是所有的控件路径都返回值
+  test_0907_1.vcxproj -> E:\Project\C\test_0907_1\x64\Debug\test_0907_1.exe
