@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Frank\Desktop\test.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  test_0909_1.vcxproj -> E:\Project\C\test_0909_1\x64\Debug\test_0909_1.exe
